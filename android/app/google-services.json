@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580794122417",
+    "firebase_url": "https://coffee-brew-crew-4a9fa.firebaseio.com",
+    "project_id": "coffee-brew-crew-4a9fa",
+    "storage_bucket": "coffee-brew-crew-4a9fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580794122417:android:e315b9a9135dd4ed6fe290",
+        "android_client_info": {
+          "package_name": "com.ronaldvincentsaplad.coffee_brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580794122417-n9dmbuggtcf3t79pr1rccc8kp1ndqaeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMp4ScqVqa9xNed05e-dn03b1stpda6YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580794122417-n9dmbuggtcf3t79pr1rccc8kp1ndqaeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
